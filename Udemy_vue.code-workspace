@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../LL"
+		},
+		{
+			"path": "../laravel-9"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
